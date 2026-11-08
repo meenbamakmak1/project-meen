@@ -1,0 +1,11 @@
+{
+  "name": "project-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"todos/project work 205\" run dev",
+    "build": "npm --prefix \"todos/project work 205\" run build",
+    "start": "npm --prefix \"todos/project work 205\" run start",
+    "lint": "npm --prefix \"todos/project work 205\" run lint"
+  }
+}
